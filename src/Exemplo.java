@@ -1,6 +1,9 @@
 public class Exemplo {
-    static void main() {
-        System.out.println("Olá mundo!");
+    private static void sayHello() {
+        System.out.println("OLá mundo");
+    }
 
+    static void main(String[] args) {
+        sayHello();
     }
 }
