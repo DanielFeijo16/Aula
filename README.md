@@ -8,4 +8,4 @@ Projeto de exemplo de uso do github desenvolvido para a disciplina XYZ.
 
 ## Versoes
 
-*01/10 - Versão 1: Cadastro
+* 01/10 - Versão 1: Cadastro
